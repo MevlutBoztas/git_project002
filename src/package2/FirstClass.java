@@ -13,8 +13,15 @@ public class FirstClass {
 		
 		System.out.println("This is the second commit from remote master");
 		System.out.println("first commit from mevlut branch");
+
 		System.out.println("Second commit from local mevlut");
+
 		System.out.println("Third commit from local mevlut");
+
+		
+		System.out.println("Conflict");
+
+
 	}
 
 }
